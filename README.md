@@ -118,5 +118,5 @@ Build deployable full stack applications
 👉 Follow me at https://github.com/cptdanko
 
 Read more developer guides at 
-- https://mydaytodo.com/blog/ &
+- https://mydaytodo.com/blog/
 - https://captaindanko.blogspot.com/
